@@ -5,6 +5,8 @@
 
 ---
 
+<img src="my-animation.gif" width="500"/>
+
 <div align="center">
 
 ### 🎯 Was mich antreibt  
