@@ -5,7 +5,7 @@
 
 ---
 
-<img src="my-animation.gif" width="500"/>
+<img src="solo.gif" width="500"/>
 
 <div align="center">
 
