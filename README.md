@@ -5,7 +5,7 @@
 
 ---
 <div align="center">
-### 🎯 Was mich antreibt  
+<h3> 🎯 Was mich antreibt <h3>  
 Ich entwickle nicht nur Software.  
 Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.  
 <sub>📖 Philosophie, Bildung, Gerechtigkeit – auch im Quellcode.</sub>
