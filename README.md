@@ -6,14 +6,14 @@
 ---
 <div align="center">
 
-<img src="solo.gif" width="500"/>
-
 ### 🎯 Was mich antreibt  
 Ich entwickle nicht nur Software.  
 Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.  
 <sub>📖 Philosophie, Bildung, Gerechtigkeit – auch im Quellcode.</sub>
 
 <br><br>
+<img src="solo.gif" width="500"/>
+
 
 ### 🛠️ Neben der Tastatur  
 🐉 Kung-Fu  
