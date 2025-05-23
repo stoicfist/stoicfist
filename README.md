@@ -33,7 +33,6 @@ Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.
 <h3>📫 Kontakt</h3>
 
 <p>
-🔗 GitHub: <a href="https://github.com/stoicfist">@stoicfist</a><br>
 ✉️ E-Mail: <code>peter.ngo1@protonmail.com</code>
 </p>
 
