@@ -1,4 +1,4 @@
-<h1 align="center"> Peter Ngo </h1>
+<h1 align="center"> ## Was ich mache – und wie ich denke  </h1>
 
 <p align="center">
   <i>Applikationsentwickler im 2. Lehrjahr & leidenschaftlicher Systemdenker</i><br>
