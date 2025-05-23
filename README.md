@@ -5,15 +5,12 @@
 
 ---
 <div align="center">
-
 ### 🎯 Was mich antreibt  
 Ich entwickle nicht nur Software.  
 Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.  
 <sub>📖 Philosophie, Bildung, Gerechtigkeit – auch im Quellcode.</sub>
 
 <br><br>
-<img src="solo.gif" width="500"/>
-
 
 ### 🛠️ Neben der Tastatur  
 🐉 Kung-Fu  
@@ -24,7 +21,7 @@ Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.
 
 ### 📫 Kontakt 
 ✉️ E-Mail: <code>peter.ngo1@protonmail.com</code>
-
+<img src="solo.gif" width="500"/>
 <br><br>
 <sub><i>Systeme verstehen. Systeme bauen. Systeme sprengen.</i></sub>
 
