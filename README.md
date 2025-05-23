@@ -18,10 +18,10 @@ Eine Mischung aus Philosophie, Autobiografie und Systemkritik – geschrieben in
 Ziel: Gedanken greifbar machen, außerhalb akademischer Filterblasen.
 
 
+
 ### 📐 Archimedes-Visualizer
 Ein Webtool zur Berechnung und 3D-Darstellung archimedischer Körper.  
 Live-Berechnung von Volumen & Oberfläche, Login-System mit Rollen (Keycloak), Echtzeitdarstellung via Three.js.
-
 
 
 ---
