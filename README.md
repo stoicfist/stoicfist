@@ -4,10 +4,9 @@
 <code>„Ich baue Systeme – im Code, im Kopf, im Leben.“</code></p>
 
 ---
+<div align="center">
 
 <img src="solo.gif" width="500"/>
-
-<div align="center">
 
 ### 🎯 Was mich antreibt  
 Ich entwickle nicht nur Software.  
