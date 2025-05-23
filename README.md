@@ -21,7 +21,10 @@ Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.
 
 ### 📫 Kontakt 
 ✉️ E-Mail: <code>peter.ngo1@protonmail.com</code>
+<br><br>
+
 <img src="solo.gif" width="500"/>
+
 <br><br>
 <sub><i>Systeme verstehen. Systeme bauen. Systeme sprengen.</i></sub>
 
