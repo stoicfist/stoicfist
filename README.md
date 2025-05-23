@@ -1,46 +1,28 @@
-<h2 align="center">Was ich mache – und wie ich denke</h2>
+## Über mich
 
-<p align="center">
-  <i>Applikationsentwickler im 2. Lehrjahr & leidenschaftlicher Systemdenker</i><br>
-  <code>„Ich baue Systeme – im Code, im Kopf, im Leben.“</code>
-</p>
+Ich bin angehender Applikationsentwickler im 2. Lehrjahr mit Fokus auf Fullstack-Webentwicklung, Systemverständnis und technische Eigenprojekte.
+
+Technologien, mit denen ich arbeite:
+
+- Java & Spring Boot  
+- Angular, TypeScript  
+- PostgreSQL, Docker, OAuth2, Keycloak  
+- Three.js & 3D-Visualisierung
 
 ---
 
-<div align="center">
+## Projekte
 
-<h3>🎯 Was mich antreibt</h3>
+### 🧠 Buchprojekt: *Das Restaurant-Modell*
+Eine Mischung aus Philosophie, Autobiografie und Systemkritik – geschrieben in einfacher Sprache, mit Haltung. Ziel: Gedanken greifbar machen, außerhalb akademischer Filterblasen.
 
-<p>
-Ich entwickle nicht nur Software.<br>
-Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.  
-</p>
+### 📐 Archimedes-Visualizer
+Ein Webtool zur Berechnung und 3D-Darstellung archimedischer Körper.  
+Live-Berechnung von Volumen & Oberfläche, Login-System mit Rollen (Keycloak), Echtzeitdarstellung via Three.js.
 
-<p><sub>📖 Philosophie, Bildung, Gerechtigkeit – auch im Quellcode.</sub></p>
+→ [Zum Projekt](https://github.com/dein-nutzername/archimedes-visualizer)
 
-<br>
+---
 
-<h3>🛠️ Neben der Tastatur</h3>
-
-<p>
-🐉 Kung-Fu <br>
-🏍️ CFMoto 300SR auf Schweizer Landstrassen <br>
-📘 Buchprojekt: <i>„Das Restaurant-Modell – Philosophie eines Ausgeschlossenen“</i>
-</p>
-
-<br>
-
-<h3>📫 Kontakt</h3>
-
-<p>
-✉️ E-Mail: <code>peter.ngo1@protonmail.com</code>
-</p>
-
-<br>
-
-<img src="solo.gif" width="500" alt="solo kung-fu move gif"/>
-
-<br><br>
-<sub><i>Systeme verstehen. Systeme bauen. Systeme sprengen.</i></sub>
-
-</div>
+Ich arbeite gerne an Systemen, bei denen Logik, Struktur und eigene Ideen zusammenkommen.  
+Was ich baue, soll verständlich, robust – und sinnvoll sein.
