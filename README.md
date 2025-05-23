@@ -8,6 +8,7 @@ Technologien, mit denen ich arbeite:
 - Angular, TypeScript  
 - PostgreSQL, Docker, OAuth2, Keycloak  
 - Three.js & 3D-Visualisierung
+- Azure Cloud (App Services, Static Web Apps, CI/CD)
 
 ---
 
