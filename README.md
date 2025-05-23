@@ -21,8 +21,7 @@ Ich entwickle <b>Verständnis</b> – und stelle Systeme in Frage.
 
 <br><br>
 
-### 📫 Kontakt  
-🔗 GitHub: <a href="https://github.com/stoicfist">@stoicfist</a>  
+### 📫 Kontakt 
 ✉️ E-Mail: <code>peter.ngo1@protonmail.com</code>
 
 <br><br>
