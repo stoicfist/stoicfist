@@ -31,6 +31,5 @@ Live-Berechnung von Volumen & Oberfläche, Login-System mit Rollen (Keycloak), E
 
 ## Philosophie
 Ich arbeite gerne an Systemen, bei denen Logik, Struktur und eigene Ideen zusammenkommen.  
-Was ich baue, soll verständlich, robust – und sinnvoll sein.
-
+Was ich baue, soll verständlich, robust – und sinnvoll sein.                            
 Denn meine Programme sind meine Kinder.
