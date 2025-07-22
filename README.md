@@ -20,12 +20,15 @@ Technologien, mit denen ich arbeite:
 Eine Mischung aus Philosophie, Autobiografie und Systemkritik – geschrieben in einfacher Sprache, mit Haltung. 
 Ziel: Gedanken greifbar machen, außerhalb akademischer Filterblasen.
 
-
-
 ### - Archimedes-Visualizer
 Ein Webtool zur Berechnung und 3D-Darstellung archimedischer Körper.  
 Live-Berechnung von Volumen & Oberfläche, Login-System mit Rollen (Keycloak), Echtzeitdarstellung via Three.js.
 
+### - Lebensstrahl-Theorie
+Ein symbolisch-strukturelles Denkmodell zu Identität, Erinnerung und Begegnung.
+Verbindet Einflüsse aus Philosophie, Systemtheorie, Informatik und Psychologie.
+Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über Identität und Fragmentierung anstoßen.
+[→ Zum Essay (PDF)](https://www.linkedin.com/posts/ngoc-son-peter-ngo_lebensstrahlen-ein-neuer-blick-auf-begegnungen-activity-7352287152891711490-Gevv)
 
 ---
 
