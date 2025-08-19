@@ -1,6 +1,6 @@
 ## Über mich
 
-Ich bin angehender Applikationsentwickler im 2. Lehrjahr mit Fokus auf Fullstack-Webentwicklung, Systemverständnis und technische Eigenprojekte.
+Ich bin angehender Applikationsentwickler im 3. Lehrjahr mit Fokus auf Fullstack-Webentwicklung, Systemverständnis und technische Eigenprojekte.
 
 <img src="./bebop.gif" width="500" alt="Demo GIF">
 
