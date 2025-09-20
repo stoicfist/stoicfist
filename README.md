@@ -6,7 +6,8 @@ Ich bin angehender Applikationsentwickler im 3. Lehrjahr mit Fokus auf Fullstack
 
 Technologien, mit denen ich arbeite:
 
-- Java & Spring Boot  
+- Java & Spring Boot
+- Ruby & Rails  
 - Angular, TypeScript  
 - PostgreSQL, Docker, OAuth2, Keycloak  
 - Three.js & 3D-Visualisierung
