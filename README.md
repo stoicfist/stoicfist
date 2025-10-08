@@ -37,3 +37,8 @@ Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über
 Ich arbeite gerne an Systemen, bei denen Logik, Struktur und eigene Ideen zusammenkommen.  
 Was ich baue, soll verständlich, robust – und sinnvoll sein.                            
 Denn meine Programme sind meine Kinder.
+
+
+### ⭐ Stargazer-Verlauf
+
+[![starline](https://starlines.qoo.monster/assets/DEIN_USERNAME)](https://github.com/qoomon/starline)
