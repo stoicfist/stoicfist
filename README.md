@@ -41,4 +41,4 @@ Denn meine Programme sind meine Kinder.
 
 ### ⭐ Stargazer-Verlauf
 
-[![starline](https://starlines.qoo.monster/assets/OWNER/REPO)](https://github.com/qoomon/starline)
+[![starline](https://starlines.qoo.monster/assets/stoicfist)](https://github.com/qoomon/starline)
