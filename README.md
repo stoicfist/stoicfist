@@ -1,3 +1,7 @@
+### ⭐ Stargazer-Verlauf
+
+[![starline](https://starlines.qoo.monster/assets/stoicfist)](https://github.com/qoomon/starline)
+
 ## Über mich
 
 Ich bin angehender Applikationsentwickler im 3. Lehrjahr mit Fokus auf Fullstack-Webentwicklung, Systemverständnis und technische Eigenprojekte.
@@ -38,7 +42,3 @@ Ich arbeite gerne an Systemen, bei denen Logik, Struktur und eigene Ideen zusamm
 Was ich baue, soll verständlich, robust – und sinnvoll sein.                            
 Denn meine Programme sind meine Kinder.
 
-
-### ⭐ Stargazer-Verlauf
-
-[![starline](https://starlines.qoo.monster/assets/stoicfist)](https://github.com/qoomon/starline)
