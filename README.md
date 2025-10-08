@@ -29,7 +29,7 @@ Live-Berechnung von Volumen & Oberfläche, Login-System mit Rollen (Keycloak), E
 Ein symbolisch-strukturelles Denkmodell zu Identität, Erinnerung und Begegnung.
 Verbindet Einflüsse aus Philosophie, Systemtheorie, Informatik und Psychologie.
 Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über Identität und Fragmentierung anstoßen.
-[→ Zum Essay (PDF)](https://www.researchgate.net/publication/395129195_The_Life-Ray_Theory_Lebensstrahltheorie_A_Conceptual_Model_of_Memory_and_Interaction/stats)
+[→ Zum Essay (PDF)](https://www.researchgate.net/publication/395129195_The_Life-Ray_Theory_Lebensstrahltheorie_A_Conceptual_Model_of_Memory_and_Interaction)
 
 ---
 
