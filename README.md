@@ -27,15 +27,12 @@ Mich interessiert nicht nur *wie Systeme funktionieren*, sondern *warum sie sinn
 
 ## ⚙️ Technologien, mit denen ich arbeite:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+- **Backend:** Java & Spring Boot, Ruby & Rails  
+- **Frontend:** Angular, TypeScript  
+- **Datenbanken:** PostgreSQL  
+- **Infrastruktur:** Docker, OAuth2, Keycloak  
+- **3D & Visualisierung:** Three.js  
+- **Cloud & Deployment:** Azure (App Services, Static Web Apps, CI/CD)
 
 ---
 
@@ -63,19 +60,12 @@ Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über
 
 ---
 
-## 🌱 Philosophie
+## Philosophie
 
 Ich arbeite gerne an Systemen, bei denen **Logik, Struktur und eigene Ideen** zusammenkommen.  
 Was ich baue, soll **verständlich**, **robust** – und **sinnvoll** sein.  
 
 > „Denn meine Programme sind meine Kinder.“
-
----
-
-## 🜂 Manifest
-> Systeme sind keine Werkzeuge, sie sind Sprachen.  
-> Code ist Grammatik, Architektur ist Semantik, und Verhalten ist Bedeutung.  
-> Wer Systeme baut, schreibt — über die Welt, wie sie sein soll.
 
 ---
 
