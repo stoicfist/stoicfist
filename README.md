@@ -1,4 +1,4 @@
-<h1 align="center">👋 Willkommen auf meinem Profil</h1>
+<h1 align="center">Willkommen auf meinem Profil</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Applikationsentwickler+%7C+Systemdenker+%7C+Philosoph;Software+ist+verdichtete+Entscheidung.;Struktur+%2B+Sinn+%3D+System." alt="Intro Typing Animation" />
