@@ -64,7 +64,7 @@ Ein **Webtool zur Berechnung und 3D-Darstellung archimedischer Körper.**
 Ein **symbolisch-strukturelles Denkmodell** zu Identität, Erinnerung und Begegnung.  
 Verbindet Einflüsse aus **Philosophie, Systemtheorie, Informatik und Psychologie.**  
 Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über Identität und Fragmentierung anstoßen.  
-[→ Zum Essay (PDF)](https://www.researchgate.net/publication/395129195_The_Life-Ray_Theory_Lebensstrahltheorie_A_Conceptual_Model_of_Memory_and_Interaction)
+[→ Zum Essay (PDF)](https://www.researchgate.net/publication/396948280_Life_Rays_Fragment_Chains_-_A_Theory_of_Encounter_English_Extended_Version_of_The_Life-Ray_Theory_Lebensstrahltheorie)
 
 ---
 
