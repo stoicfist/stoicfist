@@ -60,7 +60,7 @@ Ein **Webtool zur Berechnung und 3D-Darstellung archimedischer Körper.**
 
 ---
 
-### *Lebensstrahl-Theorie*
+### *Life Rays & Fragment Chains (Lebensstrahl-Theorie)*
 Ein **symbolisch-strukturelles Denkmodell** zu Identität, Erinnerung und Begegnung.  
 Verbindet Einflüsse aus **Philosophie, Systemtheorie, Informatik und Psychologie.**  
 Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über Identität und Fragmentierung anstoßen.  
