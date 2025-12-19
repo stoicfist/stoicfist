@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my Profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Applikationsentwickler+%7C+Systemdenker+%7C+Philosoph;Software+ist+verdichtete+Entscheidung.;Struktur+%2B+Sinn+%3D+System." alt="Intro Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=Introducing:;Life+Ray+Theory;Life+Ray+1+%2B+Life+Ray+2+→+Intersection;Intersection+→+Fragment;Fragments+→+Fragment+Chain;Fragment+Chain+→+Memory" alt="Life Ray Theory Flow" />
 </p>
+
 
 ---
 
