@@ -11,7 +11,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stoicfist&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
-✦ ✦ ✦
+---
 
 ## 👤 About Me
 
@@ -48,6 +48,14 @@ A **web tool for calculating and visualizing Archimedean solids in 3D.**
 - Live computation of volume and surface area  
 - Role-based login system (Keycloak)  
 - Real-time rendering using Three.js  
+
+---
+
+### *LaTeXHub*
+A **multi-user web application for managing and reusing LaTeX templates.**  
+- User authentication and template ownership  
+- Public and private template sharing  
+- Clone templates into documents and export as LaTeX projects  
 
 ---
 
