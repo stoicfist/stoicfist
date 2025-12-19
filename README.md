@@ -64,7 +64,7 @@ A **multi-user web application for managing and reusing LaTeX templates.**
 A **symbolic-structural framework** exploring identity, memory, and human encounter.  
 It connects perspectives from **philosophy, systems theory, computer science, and psychology**.  
 The goal is to make interpersonal complexity understandable and to encourage dialogue about identity and fragmentation.  
-[→ Read the essay (PDF)](https://www.researchgate.net/publication/396948280_Life_Rays_Fragment_Chains_-_A_Theory_of_Encounter_English_Extended_Version_of_The_Life-Ray_Theory_Lebensstrahltheorie)
+[→ Read the essay (PDF)](https://zenodo.org/records/17457707)
 
 ---
 
