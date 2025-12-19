@@ -1,4 +1,4 @@
-<h1 align="center">Willkommen auf meinem Profil</h1>
+<h1 align="center">Welcome to my Profile</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Applikationsentwickler+%7C+Systemdenker+%7C+Philosoph;Software+ist+verdichtete+Entscheidung.;Struktur+%2B+Sinn+%3D+System." alt="Intro Typing Animation" />
@@ -6,17 +6,17 @@
 
 ---
 
-## ⚡ Aktivitätsverlauf
+## ⚡ Activity Overview
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stoicfist&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ✦ ✦ ✦
 
-## 👤 Über mich
+## 👤 About Me
 
-Ich bin angehender **Applikationsentwickler im 3. Lehrjahr** mit Fokus auf **Fullstack-Webentwicklung**, **Systemverständnis** und **technische Eigenprojekte**.  
-Mich interessiert nicht nur *wie Systeme funktionieren*, sondern *warum sie sinnvoll sind*.
+I am an **apprentice application developer (3rd year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
+I am interested not only in *how systems work*, but in *why they make sense*.
 
 <p align="center">
   <img src="./bebop.gif" width="500" alt="Demo GIF">
@@ -24,45 +24,44 @@ Mich interessiert nicht nur *wie Systeme funktionieren*, sondern *warum sie sinn
 
 ---
 
-## ⚙️ Technologien, mit denen ich arbeite:
+## ⚙️ Technologies I Work With
 
 - **Backend:** Java & Spring Boot, Ruby & Rails  
 - **Frontend:** Angular, TypeScript  
-- **Datenbanken:** PostgreSQL  
-- **Infrastruktur:** Docker, OAuth2, Keycloak  
-- **3D & Visualisierung:** Three.js  
+- **Databases:** PostgreSQL  
+- **Infrastructure:** Docker, OAuth2, Keycloak  
+- **3D & Visualization:** Three.js  
 - **Cloud & Deployment:** Azure (App Services, Static Web Apps, CI/CD)
 
 ---
 
-## 📘 Projekte
+## 📘 Projects
 
-### *Das Restaurant-Modell*
-Eine Mischung aus **Philosophie, Autobiografie und Systemkritik** – geschrieben in einfacher Sprache, mit Haltung.  
-Ziel: Gedanken greifbar machen, außerhalb akademischer Filterblasen.
-
----
-
-### *Archimedes-Visualizer*
-Ein **Webtool zur Berechnung und 3D-Darstellung archimedischer Körper.**  
-- Live-Berechnung von Volumen & Oberfläche  
-- Login-System mit Rollen (Keycloak)  
-- Echtzeitdarstellung via Three.js  
+### *The Restaurant Model*
+A blend of **philosophy, autobiography, and systems critique** — written in clear, accessible language.  
+Its goal is to make complex ideas tangible, outside academic filter bubbles.
 
 ---
 
-### *Life Rays & Fragment Chains (Lebensstrahl-Theorie)*
-Ein **symbolisch-strukturelles Denkmodell** zu Identität, Erinnerung und Begegnung.  
-Verbindet Einflüsse aus **Philosophie, Systemtheorie, Informatik und Psychologie.**  
-Ziel: Zwischenmenschliche Komplexität verständlich machen und den Dialog über Identität und Fragmentierung anstoßen.  
-[→ Zum Essay (PDF)](https://www.researchgate.net/publication/396948280_Life_Rays_Fragment_Chains_-_A_Theory_of_Encounter_English_Extended_Version_of_The_Life-Ray_Theory_Lebensstrahltheorie)
+### *Archimedes Visualizer*
+A **web tool for calculating and visualizing Archimedean solids in 3D.**  
+- Live computation of volume and surface area  
+- Role-based login system (Keycloak)  
+- Real-time rendering using Three.js  
 
 ---
 
-## 🧠 Philosophie
-Ich arbeite gerne an Systemen, bei denen **Logik, Struktur und eigene Ideen** zusammenkommen.  
-Was ich baue, soll **verständlich**, **robust** – und **sinnvoll** sein.  
-
-> „Denn meine Programme sind meine Kinder.“
+### *Life Rays & Fragment Chains*
+A **symbolic-structural framework** exploring identity, memory, and human encounter.  
+It connects perspectives from **philosophy, systems theory, computer science, and psychology**.  
+The goal is to make interpersonal complexity understandable and to encourage dialogue about identity and fragmentation.  
+[→ Read the essay (PDF)](https://www.researchgate.net/publication/396948280_Life_Rays_Fragment_Chains_-_A_Theory_of_Encounter_English_Extended_Version_of_The_Life-Ray_Theory_Lebensstrahltheorie)
 
 ---
+
+## 🧠 Philosophy
+
+I enjoy working on systems where **logic, structure, and original ideas** come together.  
+What I build should be **understandable**, **robust**, and **meaningful**.
+
+> “Because my programs are my children.”
