@@ -11,7 +11,7 @@
 I am an **apprentice application developer (3rd year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
 I am interested not only in *how systems work*, but in *why they make sense*.
 
-<p align="center">
+<p align="left">
   <img src="./bebop.gif" width="500" alt="Demo GIF">
 </p>
 
