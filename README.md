@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=Introducing:;Life+Ray+Theory;Life+Ray+1+%2B+Life+Ray+2+→+Intersection;Intersection+→+Fragment;Fragments+→+Fragment+Chain;Fragment+Chain+→+Memory" alt="Life Ray Theory Flow" />
 </p>
 
-
----
-
-## ⚡ Activity Overview
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stoicfist&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 👤 About Me
@@ -37,12 +29,6 @@ I am interested not only in *how systems work*, but in *why they make sense*.
 ---
 
 ## 📘 Projects
-
-### *The Restaurant Model*
-A blend of **philosophy, autobiography, and systems critique** — written in clear, accessible language.  
-Its goal is to make complex ideas tangible, outside academic filter bubbles.
-
----
 
 ### *Archimedes Visualizer*
 A **web tool for calculating and visualizing Archimedean solids in 3D.**  
