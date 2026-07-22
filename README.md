@@ -6,7 +6,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 I am an **apprentice application developer (3rd year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
 I am interested not only in *how systems work*, but in *why they make sense*.
@@ -17,7 +17,7 @@ I am interested not only in *how systems work*, but in *why they make sense*.
 
 ---
 
-## ⚙️ Technologies I Work With
+## Technologies I Work With
 
 - **Backend:** Java & Spring Boot, Ruby & Rails  
 - **Frontend:** Angular, TypeScript  
@@ -28,7 +28,7 @@ I am interested not only in *how systems work*, but in *why they make sense*.
 
 ---
 
-## 📘 Projects
+## Projects
 
 ### *Archimedes Visualizer*
 A **web tool for calculating and visualizing Archimedean solids in 3D.**  
@@ -54,7 +54,7 @@ The goal is to make interpersonal complexity understandable and to encourage dia
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 I enjoy working on systems where **logic, structure, and original ideas** come together.  
 What I build should be **understandable**, **robust**, and **meaningful**.
