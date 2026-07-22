@@ -24,7 +24,7 @@ I am interested not only in *how systems work*, but in *why they make sense*.
 - **Databases:** PostgreSQL  
 - **Infrastructure:** Docker, OAuth2, Keycloak  
 - **3D & Visualization:** Three.js  
-- **Cloud & Deployment:** Azure (App Services, Static Web Apps, CI/CD)
+- **Cloud & Deployment:** AWS (Static Web Apps)
 
 ---
 
