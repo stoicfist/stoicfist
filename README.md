@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am an **apprentice application developer (3rd year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
+I am an **apprentice application developer (4th year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
 I am interested not only in *how systems work*, but in *why they make sense*.
 
 <p align="left">
