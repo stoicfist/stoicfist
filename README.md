@@ -6,6 +6,10 @@
 
 ---
 
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</div>
+
 ## About Me
 
 I am an **apprentice application developer (4th year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
