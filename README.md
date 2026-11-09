@@ -21,6 +21,20 @@ I am interested not only in *how systems work*, but in *why they make sense*.
 
 ---
 
+<h2>My Contribution Garden 🌸</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="assets/garden-year-dark.svg">
+    <img src="assets/garden-year-light.svg"
+         width="100%"
+         alt="My Contribution Garden">
+  </picture>
+</p>
+
+---
+
 ## Technologies I Work With
 
 - **Backend:** Java & Spring Boot, Ruby & Rails  
