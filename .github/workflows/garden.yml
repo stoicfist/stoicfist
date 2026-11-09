@@ -1,0 +1,61 @@
+
+name: Update Garden
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-garden
+  cancel-in-progress: false
+
+jobs:
+  garden:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Checkout garden generator
+        uses: actions/checkout@v4
+        with:
+          repository: Shagshag/garden-graph
+          path: garden-generator
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate garden
+        working-directory: garden-generator
+        env:
+          GITHUB_LOGIN: stoicfist
+          GARDEN_CLIMATE: japan
+          GARDEN_LANG: en
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python fetch.py
+          python render.py
+
+      - name: Copy generated garden
+        run: |
+          mkdir -p assets
+          cp garden-generator/assets/*.svg assets/
+
+      - name: Commit garden
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update contribution garden"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
