@@ -15,11 +15,7 @@
 I am an **apprentice application developer (4th year)** with a focus on **full-stack web development**, **systems thinking**, and **independent technical projects**.  
 I am interested not only in *how systems work*, but in *why they make sense*.
 
-<p align="left">
-  <img src="./bebop.gif" width="500" alt="Demo GIF">
-</p>
 
----
 
 <h2>My Contribution Garden 🌸</h2>
 
@@ -33,7 +29,7 @@ I am interested not only in *how systems work*, but in *why they make sense*.
   </picture>
 </p>
 
----
+
 
 ## Technologies I Work With
 
@@ -44,7 +40,7 @@ I am interested not only in *how systems work*, but in *why they make sense*.
 - **3D & Visualization:** Three.js  
 - **Cloud & Deployment:** AWS (Static Web Apps)
 
----
+
 
 ## Projects
 
